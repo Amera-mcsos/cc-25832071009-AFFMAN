@@ -1,5 +1,5 @@
-# ADR-0005: Pemantauan dan biaya; IaC dan pipeline direncanakan
-
+  # ADR-0005: IaC, pipeline, observability, dan cost (saat ini pemantauan manual)
+  
 **Status:** Sebagian berjalan (pemantauan manual); IaC dan pipeline rencana M07–M13
 
 **Tanggal:** 09-11-2026
