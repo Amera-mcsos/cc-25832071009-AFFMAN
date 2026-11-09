@@ -1,4 +1,4 @@
-# ADR-0004: Deployment systemd + Gunicorn, containerization direncanakan
+# ADR-0004: Container, network & image policy (saat ini systemd + Gunicorn)
 
 **Status:** Diterima untuk M03–M05; containerization dievaluasi pada M06
 
